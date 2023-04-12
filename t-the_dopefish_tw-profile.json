@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-12T11:18:05Z",
+  "IdClaims": [
+    {
+      "Claim": "t:the_dopefish_tw"
+    },
+    {
+      "Claim": "mdon:@thedopefishlives@universeodon.com"
+    },
+    {
+      "Claim": "yt:@thedopefishlives2009"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "5cf5925acd18b4f6e8ee41b8",
+    "Timestamp": "2023-04-12T11:20:52Z",
+    "Signature": "0b4307af4653a7a4710b78454817800c6ea2fc179dcc3e6855a8cbeaf3a6e54f44a84659027167ca146a99298c2db1b03e0bb7b48b37a8178c7f5169a4e57c5c29ade3b11c1ea392575f417107fe2045bcb2da23fe1b00c6cad5eab9713da3142b154fca942dc5c44a5c59b5de359b44bd10e5dea9b7311a996f467671292b1c115e0deeea85086284db659a426363a86e411ad2115c0100d6208c96a6e694c6c20923bf356299e27567b352fdf170786e15b2536b78acf2b7381e1336c79efe24d198359cd34c0ef6a1d97e926f15726d13ab71899673c81cb028ccec0c6b2c0c48ff36f7ecb78d43813ee416768597e1af78c8465d1e3b98846bcf6fb86378"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "bc6f2f755c2d2c52f448e9f5483d91371cb20b44652143b8ed28b08f8f3ce08d",
+  "ContentToHash": "v1|mdon:@thedopefishlives@universeodon.com,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:the_dopefish_tw,yt:@thedopefishlives2009|2023-04-12T11:18:05Z"
+}
