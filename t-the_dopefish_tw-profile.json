@@ -10,6 +10,9 @@
     },
     {
       "Claim": "yt:@thedopefishlives2009"
+    },
+    {
+      "Claim": "gh:dopefish84"
     }
   ],
   "IdDisclaims": [
@@ -32,11 +35,11 @@
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "5cf5925acd18b4f6e8ee41b8",
-    "Timestamp": "2023-04-12T11:20:52Z",
-    "Signature": "0b4307af4653a7a4710b78454817800c6ea2fc179dcc3e6855a8cbeaf3a6e54f44a84659027167ca146a99298c2db1b03e0bb7b48b37a8178c7f5169a4e57c5c29ade3b11c1ea392575f417107fe2045bcb2da23fe1b00c6cad5eab9713da3142b154fca942dc5c44a5c59b5de359b44bd10e5dea9b7311a996f467671292b1c115e0deeea85086284db659a426363a86e411ad2115c0100d6208c96a6e694c6c20923bf356299e27567b352fdf170786e15b2536b78acf2b7381e1336c79efe24d198359cd34c0ef6a1d97e926f15726d13ab71899673c81cb028ccec0c6b2c0c48ff36f7ecb78d43813ee416768597e1af78c8465d1e3b98846bcf6fb86378"
+    "Nonce": "e83002fc771c2dbdefbb4237",
+    "Timestamp": "2023-04-20T22:31:01Z",
+    "Signature": "8e5bd2cfd409893224fa795d9563c60510ad452059360cf64bfc76ecc2c51b194480e09b4877a1b55d9cadcc363341351e5da783e56eec79dfbe0e0b49c3dc8a4a54b29743164273a7c83c68611a7455e8cc3e2e14541141ce09df8679782665ba5c092ff33e441763cef666dab403b908fc31074971933bc16070cbe60ad4b8e9d07148ee57499986d24d19e4b904c98a86e614e057574767f67104fcef5fb37060dc8876c94de637a5fb98049ee78ec7693829f16033cd30e03469664881c4858c2a0d6c2656afcc62f23f162a6f903dba58e113734253632e631e892b9c6ba7339417bf27530844fe65924b712d45b8db1228a012a12d341948580b598153"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "bc6f2f755c2d2c52f448e9f5483d91371cb20b44652143b8ed28b08f8f3ce08d",
-  "ContentToHash": "v1|mdon:@thedopefishlives@universeodon.com,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:the_dopefish_tw,yt:@thedopefishlives2009|2023-04-12T11:18:05Z"
+  "ContentSha256": "74859f40c504781805a7d0ab3bd35004532f95e06b366522393720e88d7012ab",
+  "ContentToHash": "v1|gh:dopefish84,mdon:@thedopefishlives@universeodon.com,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:the_dopefish_tw,yt:@thedopefishlives2009|2023-04-12T11:18:05Z"
 }
